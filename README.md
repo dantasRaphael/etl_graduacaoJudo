@@ -1,2 +1,2 @@
-# analise_avaliativa
- O projeto consiste em fazer um ETL (extração, transformação, carregamento) dos dados de duas planilhas de excel contendo informações diferentes de diversos alunos, e transformar em uma unica tabela e agrupar as informações ao alunos correspondentes.
+# ETL dados para exame de graduação de judo (pandas x excel)
+ O projeto consiste em fazer um ETL (extração, transformação, carregamento), onde extraio dados uteis de duas tabelas de excel, formato os dados e concateno em uma terceita tabela e carrego com os dados correspondentes ao índex defino, e por fim exporto em uma planilha de excel
